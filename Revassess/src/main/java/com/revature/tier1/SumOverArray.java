@@ -3,10 +3,23 @@ package com.revature.tier1;
 public class SumOverArray {
 
 	public static int IterateAndSum(int[] arr) {
-		int total = 0;
-		for (int i : arr){
-			total += i;
+		if (arr == null){
+			return 0;
 		}
-		return total;
+		else {
+			int total = 0;
+			for (int i : arr) {
+				total = total + i;
+			}
+			return total;
+		}
 	}
+
+	public static void main(String[] args){
+		int arr[] = null;
+
+		System.out.println(SumOverArray.IterateAndSum(arr));
+
+	}
+
 }
