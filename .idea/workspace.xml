@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52d91108-23a5-4a1d-9743-347cd73f4e0c" name="Default Changelist" comment="" />
+    <list default="true" id="eb5722bf-3f48-479c-8284-d88f3efce63c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Revassess/src/main/java/com/revature/tier1/CompareStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Revassess/src/main/java/com/revature/tier1/CompareStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/revasses/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1fv0AOPzJenh5DZZEsK6fyKsCjo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1fv44aQzPHzp23Zkrsdg6I6aUG3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Revassess" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SvnConfiguration">
@@ -35,16 +31,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52d91108-23a5-4a1d-9743-347cd73f4e0c" name="Default Changelist" comment="" />
-      <created>1597083114747</created>
+      <changelist id="eb5722bf-3f48-479c-8284-d88f3efce63c" name="Default Changelist" comment="" />
+      <created>1597085041702</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597083114747</updated>
-      <workItem from="1597083119740" duration="1230000" />
+      <updated>1597085041702</updated>
+      <workItem from="1597085047328" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597085112074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597085112074" />
   </component>
 </project>
